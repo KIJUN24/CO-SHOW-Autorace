@@ -26,5 +26,5 @@ Member : Dongyeong Kim, Yuchan Kim, Mingyu Han
 
 팀원 : 이기준, 김동영, 김유찬, 한민규
 
-![Poster](./images/Special_Prize.png)
+![Member]([./images/Special_Prize.png](https://github.com/KIJUN24/CO-SHOW-Autorace/blob/master/Special_Prize.jpg))
 
