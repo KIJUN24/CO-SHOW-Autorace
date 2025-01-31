@@ -4,7 +4,7 @@
 
 ***
 
-![Poster](./images/2024_대구_자율주행_경진대회.png)
+![Poster](./images/2024_AutoRace_Poster.png)
 
 ***
 
