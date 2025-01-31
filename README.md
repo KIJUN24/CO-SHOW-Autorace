@@ -4,7 +4,7 @@
 
 ***
 
-![Poster](./images/2024_AutoRace_Poster.png)
+https://github.com/KIJUN24/CO-SHOW-Autorace/blob/master/2024_AutoRace_Poster.png
 
 ***
 
