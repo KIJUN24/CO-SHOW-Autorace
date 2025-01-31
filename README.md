@@ -4,7 +4,7 @@
 
 ***
 
-    ![Poster](https://github.com/KIJUN24/CO-SHOW-Autorace/blob/master/2024_AutoRace_Poster.png)
+![Poster](https://github.com/KIJUN24/CO-SHOW-Autorace/blob/master/2024_AutoRace_Poster.png)
 
 ***
 
@@ -26,5 +26,5 @@ Member : Dongyeong Kim, Yuchan Kim, Mingyu Han
 
 팀원 : 이기준, 김동영, 김유찬, 한민규
 
-([./images/Special_Prize.png](https://github.com/KIJUN24/CO-SHOW-Autorace/blob/master/Special_Prize.jpg))
+./images/Special_Prize.png](https://github.com/KIJUN24/CO-SHOW-Autorace/blob/master/Special_Prize.jpg
 
