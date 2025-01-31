@@ -4,7 +4,7 @@
 
 ***
 
-![설명](./images/2024_대구_자율주행_경진대회.png)
+![Poster](./images/2024_대구_자율주행_경진대회.png)
 
 ***
 
@@ -25,3 +25,6 @@ Leader : Kijun Lee
 Member : Dongyeong Kim, Yuchan Kim, Mingyu Han
 
 팀원 : 이기준, 김동영, 김유찬, 한민규
+
+![Poster](./images/Special_Prize.png)
+
